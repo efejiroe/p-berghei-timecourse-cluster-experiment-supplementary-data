@@ -1,1 +1,1 @@
-# supplementary_data_for_P_berghei_functional_cluster_analysis
+Cluster analysis of Plasmodium RNA-seq time-course data identifies stage-specific co-regulated biological processes and regulatory elements. Included in this repository are supplementary data derived from this study.
