@@ -4,12 +4,12 @@
 
 <h2>SUPPLEMENTARY DATA INFORMATION</h2>
 <ol>
-<li>S01a: Significant (p < 0.05) Gene-Ontology biological process and components in enriched in gene clusters of biological interest of the IDC stage of Plasmodium berghei respectively (.csv).</li>
-<li>S01b: Significant (p < 0.05) Gene-Ontology biological process and components in enriched in gene clusters of biological interest of the SEX stage of Plasmodium berghei respectively (.csv).</li>
-<li>S01c: Significant (p < 0.05) Gene-Ontology biological process and components in enriched in gene clusters of biological interest of the MOS stage of Plasmodium berghei respectively (.csv).</li>
-<li>S02a: List of highly conserved genes with unknown function found in clusters of biological interest identified in the IDC stage of Plasmodium berghei respectively (.csv).</li>
-<li>S02b: List of highly conserved genes with unknown function found in clusters of biological interest identified in the SEX developmental stage of Plasmodium berghei respectively (.csv).</li>
-<li>S02c: List of highly conserved genes with unknown function found in clusters of biological interest identified in the MOS developmental stage of Plasmodium berghei respectively (.csv).</li>
+<li>S01a: Significant (p < 0.05) Gene-Ontology of biological process and components in enriched in gene clusters of biological interest of the IDC stage of Plasmodium berghei(.csv).</li>
+<li>S01b: Significant (p < 0.05) Gene-Ontology of biological process and components in enriched in gene clusters of biological interest of the SEX stage of Plasmodium berghei(.csv).</li>
+<li>S01c: Significant (p < 0.05) Gene-Ontology of biological process and components in enriched in gene clusters of biological interest of the MOS stage of Plasmodium berghei(.csv).</li>
+<li>S02a: List of highly conserved genes with unknown function found in clusters of biological interest identified in the IDC stage of Plasmodium berghei(.csv).</li>
+<li>S02b: List of highly conserved genes with unknown function found in clusters of biological interest identified in the SEX developmental stage of Plasmodium berghei(.csv).</li>
+<li>S02c: List of highly conserved genes with unknown function found in clusters of biological interest identified in the MOS developmental stage of Plasmodium berghei(.csv).</li>
 <li>S03a: Expression and median profile trends of significant genes (p < 0.05) of the IDC developmental stage of Plasmodium berghei (.png).</li>
 <li>S03b: Expression and median profile trends of significant genes (p < 0.05) of the SEX developmental stage of Plasmodium berghei (.png).</li>
 <li>S03c: Expression and median profile trends of significant genes (p < 0.05) of the MOS developmental stage of Plasmodium berghei (.png).</li>
